@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.container{
+    display: flex;
+}
+.sidebar nav{
+    padding: 44px;
+}
+.sidebar ul{
+    list-style: none;
+}
+.sidebar ul li{
+    cursor: pointer;
+    font-size: 29px;
+    margin: 1vh;
+    padding: 1vw;
+}
+.main{
+    width: 8vw;
+}
+.sidebar{
+    height: 100vh;
+    background-color: wheat;
+    transition: transform 0.2s ease-in;
+}
+.infocontainer{
+    display: flex;
+    height: 57vh;
+    width: 79vw;
+    margin: 143px auto;
+    justify-content: space-around;
+}
+.devpic img{
+    height:57vh;
+}
+.devinfo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.hello{
+    font-size: 64px;
+}
+.name{
+    font-size: 49px;
+    font-weight: bolder;
+}
+.about{
+    font-size: 39px;
+}
+.moreabout{
+    font-size: 21px;
+    margin-top: 22px;
+}
+.buttons{
+    margin-top: 33px;
+}
+.btn{
+    padding: 8px 13px;
+    border-radius: 21px;
+    color: whitesmoke;
+    background-color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    margin: 0 2px;
+    cursor: pointer;
+}
+.btn:hover{
+    color: black;
+    background-color: wheat;
+}
+.sidebar ul li a{
+    text-decoration: none;
+    color: black;
+}
+.sidebar ul li a:hover{
+    color: white;
+    background-color: black;
+    border-radius: 0.5vh;
+}
+.contactform{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.contactform h1{
+    padding: 11px;
+}
+.btn-primary{
+    font-size: 9px;
+    padding: 6px 12px;
+    margin: 9px 0;
+}
+.blogitem{
+    margin: 8vh;
+}
+h1{
+    margin: 22px;
+}
+.info h2{
+    margin: 11px;
+}
+.info p{
+    margin: 11px;
+}
+.skill{
+    width: 264px;
+    height: 5px;
+    background-color: red;
+    border: 1px solid black;
+}
+.skillcontainer{
+    padding: 11px;
+}
+.skillitem{
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+}
+.hundred{
+    width: 264px;
+    background-color: blueviolet;
+}
+.fifty{
+    width: 124px;
+    background-color: aqua;
+}
+.t5{
+    width: 74px;
+    background-color: yellow;
+}
+.hamburger{
+    display: flex;
+    position: absolute;
+    cursor: pointer;
+    top: 9px;
+    left: 9px;
+}
+.cross{
+    margin-left:214px;
+}
+.sidebargo{
+    transform: translate(-442px,0px);
+    position: absolute;
+}
+@media (max-width:1225px) {
+}
+.serviceinfocontainer{
+  display: flex;
+  flex-direction: column;
+  height: 57vh;
+  width: 79vw;
+  margin: 143px auto;
+}
+.socials{
+  display: flex;
+  flex-direction: column;
+}
+.socials a{
+  text-decoration: none;
+  color: black;
+  margin: 1vh;
+  padding: 1vw;
+}
+.socials a:hover{
+  color: white;
+  background-color: black;
+  border-radius: 0.5vh;
+}
+.blogitem a{
+  text-decoration: none;
+}
+.mainintro,.maincontact{
+  width: 89vw;
+}
+.blogitem p{
+  margin: 1vh;
+}

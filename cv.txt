@@ -1,0 +1,67 @@
+Sarthak Chaudhary
+
+B-60,G.F,Amarpali Sector-1, Rohini,Delhi I sarthak.chaudhary.ug20@nsut.ac.in
+9310477074
+CODECHEF(https://www.codechef.com/users/john1234509876) I
+GITHUB(https://github.com/5staruser) I 
+LINKEDIN(https://www.linkedin.com/in/sarthak-chaudhary478b54239/) I 
+Website(https://sarthak-portfolio.sarthakchaudha4.repl.co/)
+
+EDUCATION
+  B.Tech 2020-2024 NSUT 6
+  CBSE (Class Xll) 2019 Saint Giri Sr Sec School 79
+  CBSE (Class X) 2017 Saint Giri Sr Sec School 88.5
+
+ACADEMIC PROJECTS
+  • I have made a responsive education and a food delivery website
+  • A dance academy and a gym website with custom backend
+  • A chat app for sending text messages between different users using node js (socket.io) ,HTML , CSS
+  • Program that prints and dictates top 10 breaking news using python
+  • A mini library management system using python
+  • A desktop assistant using python
+  • A flappy bird game using python
+  • A DRS(Decision Review system) program using python
+  • An Indian railways announcement software using python
+  • A web app with a logistic regression model that calculates the probability of whether a person has covid 19 or not based on 5 features
+  • A Tic-Tac-Toe game for android using Java and XML
+  • A music player app for android using java and xml
+  • A program which predicts the worth of a property based on machine learning and has capability to give output based on type of ml model 
+     mentioned by user
+  • A web music player application with node js as backend
+  • A responsive online shopping website
+  • A web based snake game using html , css and javascript
+  • A Mario clone using html , css and javscript
+  • My Portfolio Website
+  • Responsive Blog Template using Html ,css and javascript
+  • A web ping pong game 
+
+ACADEMIC ACHIEVEMENTS AND COURSES
+  • A coding ninjas certified Learner
+  (https://drive.google.com/file/d/1eCYK51CO72w86ND8_KFQjd8yG7kDo_0/view?usp=share_link)
+  (https://drive.google.com/file/d/1RBM2eUtep4i4J3X43SRQtyzI9s7WyawN/view?usp=share_link)
+
+  • Got a rank of 13100 in Innovate India Coding Championship organized by AICTE and Chandigarh university
+  (https://drive.google.com/file/d/1JgmrxdxzJgW0_D65Hsn5nsrxHVXX522y/view?usp=share_link)
+
+  • Got a course of worth 1000 rupees for free in Coderelay by IIT Bhubaneswar
+  (https://drive.google.com/file/d/1MRpXG_GXfRmd4giT6kwD218KEgi35sla/view?usp=sharing)
+
+  • Got awarded a discount of 40% on any course by scoring among the top 20 percentile in Machineknight by TechBairn
+  (https://drive.google.com/file/d/1XOnY7udJtUuLdL6HJqWTMFwg7RRm8_-P/view?usp=sharing)
+
+  • Got invited to Indraprastha Institute Of Technology (IIITD) by Lumos Labs after scoring a place among the top 25 teams in Buildl for Web3         Hack Day
+  (https://drive.google.com/file/d/1XYqVdAnbrA77CU2j0JFDQtsMt_LXd4Z4/view?usp=sharing)
+
+  • Got a rank of 24 in Code X Compete by Coding Ninjas
+  (https://drive.google.com/file/d/17M07lJcXIZ9Uyi1VNDy6VbWCfjOtqKVy/view?usp=sharing)
+
+OTHER SKILLS
+  • Punctual and sincere
+  • Hardworking
+  • Dedicated to work
+  • Goal determined
+  • Honest and confident
+  • Fluent in English communication and conversation
+
+TECHNICAL SKILLS
+  • Programming Languages : Java, C , HTML , CSS , JS , Python , XML
